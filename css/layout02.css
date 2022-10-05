@@ -1,0 +1,66 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 80%;
+   margin: 0 auto;
+   background-image: linear-gradient(to right,#215188, #90b9c2 );
+   }
+   header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: rgb(77, 133, 165);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+ .logo{
+    height: 30%;
+    min-width: 80%;
+    position:absolute;
+    background-image: url("../img/cidade.jpeg");
+    background-attachment:local;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+
+ }
+.logo img{
+   /* width: 20%; 
+    padding-top: 0%; */
+
+}
+ .titulo{
+    position:relative;
+    left:10px;
+    top:50px;
+  text-align:center ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #e7ebf0;
+    
+
+}
+.navegacao{
+    overflow: hidden;
+    position:relative;
+    top: 70px;
+
+
+}
+.navegacao a{
+    float: right;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 6px;
+   
+
+}
+.navegacao a:hover{
+    color: #e7ebf0;
+}
+.principal{
+    display: flex;
+    flex-direction: row;
+
+}
+.conteudo {
+    width:10%;
+    height: 10px;
+ 
+}
