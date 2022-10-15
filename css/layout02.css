@@ -60,7 +60,14 @@ body{
 
 }
 .conteudo {
-    width:10%;
-    height: 10px;
- 
+   margin:200px 5px 8px;
+   color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.rodape {
+    color: #fffbfb;
+    font-size: 60px;
+    margin: 900px 20px 2px 2opx;
+   
+    
 }
