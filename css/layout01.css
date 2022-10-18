@@ -16,11 +16,14 @@ header{
 }
 .navegacao{
     overflow: hidden;
+    
+      
 
 }
+
 .navegacao a{
     float: right;
-    color: black;
+    color: rgb(255, 253, 253);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 6px;
 }
@@ -57,4 +60,7 @@ header{
     flex-direction: column;
     padding:0px;
    }
+    }
+    .tudo{
+        background: #ffffff, #8eadcf,#ffffff;
     }

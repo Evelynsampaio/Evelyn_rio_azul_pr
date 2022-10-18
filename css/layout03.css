@@ -1,0 +1,46 @@
+
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 80%;
+   background-image: linear-gradient(to right,#215188, #b9cfd4, #215188);
+}
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: rgb(77, 133, 165);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.navegacao{
+    overflow: hidden;
+    position:relative;
+    top: 70px;
+
+}
+.navegacao a{
+    float: right;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 6px;
+   
+
+}
+.navegacao a:hover{
+    color: #e7ebf0;
+}
+.principal{
+    display: flex;
+    flex-direction: row;
+
+}
+.conteudo {
+   margin:200px 5px 8px;
+   color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.rodape {
+    color: #fffbfb;
+    font-size: 12px;
+    text-align: center;
+}
