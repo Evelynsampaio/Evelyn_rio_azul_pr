@@ -2,7 +2,7 @@ body{
  font-family: Verdana, Geneva, Tahoma, sans-serif;
 width: 80%;
 margin: 0 auto;
-background-image: linear-gradient(to right,#215188, #b9cfd4, #215188);
+background-image:url(Serra.jpeg)
 }
 header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
@@ -40,7 +40,7 @@ header{
     flex-direction: row;
 }
 .rodape{
-    color: #000000;
+    color: #ffffff;
     font-size: 10px;
     text-align: center;
 }

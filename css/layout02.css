@@ -2,7 +2,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
    width: 80%;
    margin: 0 auto;
-   background-image: linear-gradient(to right,#215188, #90b9c2 );
+   background-image: linear-gradient(to right,#215188, #b9cfd4, #215188);
    }
    header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
@@ -66,8 +66,9 @@ body{
 }
 .rodape {
     color: #fffbfb;
-    font-size: 60px;
-    margin: 900px 20px 2px 2opx;
+    font-size: 12px;
+    text-align: center;
+    
    
     
 }
