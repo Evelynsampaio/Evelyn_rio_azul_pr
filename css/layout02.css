@@ -14,7 +14,7 @@ body{
     height: 30%;
     min-width: 80%;
     position:absolute;
-    background-image: url("../img/cidade.jpeg");
+    background-image: url("Serra.jpeg");
     background-attachment:local;
     background-repeat:no-repeat;
     background-position:center;
@@ -32,7 +32,7 @@ body{
     top:50px;
   text-align:center ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #e7ebf0;
+    color: #ffffff;
     
 
 }
@@ -68,7 +68,9 @@ body{
     color: #fffbfb;
     font-size: 12px;
     text-align: center;
-    
-   
-    
+}
+.imagem{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    margin:20px 5px 8px;
+    color: white;
 }
