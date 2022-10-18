@@ -28,7 +28,7 @@ header{
     padding: 6px;
 }
 .navegacao a:hover{
-    color: #e7ebf0;
+    color: #0d4181;
 }
 .conteudo{
     margin: 5px 4px 4px 4px;
@@ -89,3 +89,10 @@ header{
     color: #ffffff;
     font-size: 10px;
  }
+ button:hover {
+    color: blue;
+  }
+  .row-reverse {
+	flex-direction: row-reverse;
+}
+	

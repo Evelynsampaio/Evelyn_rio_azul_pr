@@ -38,7 +38,7 @@ header{
 
 }
 .navegacao a:hover{
-    color: #e7ebf0;
+    color: #094288;
 }
 .principal{
     display: flex;
@@ -55,3 +55,10 @@ header{
     font-size: 12px;
     text-align: center;
 }
+button:hover {
+    color: blue;
+  }
+  p::first-line {
+    color: blue;
+    text-transform: uppercase;
+  }

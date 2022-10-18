@@ -52,7 +52,7 @@ body{
 
 }
 .navegacao a:hover{
-    color: #e7ebf0;
+    color: #154c8f;
 }
 .principal{
     display: flex;
@@ -74,5 +74,10 @@ body{
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
  }
-
+ span#identificado {
+    background-color: DodgerBlue;
+  }
+  button:hover {
+    color: blue;
+  }
 
