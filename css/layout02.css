@@ -60,7 +60,7 @@ body{
 
 }
 .conteudo {
-   margin:200px 5px 8px;
+   margin:100px 10px 8px;
    color: white;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
@@ -70,9 +70,9 @@ body{
     text-align: center;
 }
 .imagem{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-
+    margin:100px 60px 0px;
     color: white;
-    margin: 10px;
-    border: 2px solid
-}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ }
+
+

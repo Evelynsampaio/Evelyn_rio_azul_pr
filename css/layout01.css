@@ -52,6 +52,8 @@ header{
     left:600px;
     bottom:480px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+   
 }
 }
  @media screen and(max-width:600px){
@@ -64,3 +66,26 @@ header{
     .tudo{
         background: #ffffff, #8eadcf,#ffffff;
     }
+ .titulo_2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: rgb(77, 133, 165);
+    border-radius: 07px; 
+   color: white;
+   margin: 8px 4px 4px 4px;
+    background-color: #8eadcf;
+    text-align: justify;
+    padding: 6px;
+    border-radius: 1px;
+    box-shadow: 10px 10px 10px #041735 ;
+ }
+ .segunda{
+    background-image: url(cachoeira.jpeg);
+ }
+ main{
+    color: #e7ebf0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ footer{
+    color: #ffffff;
+    font-size: 10px;
+ }
